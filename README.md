@@ -21,6 +21,7 @@ containing sequence errors.
 
 Lighter is small and portable, with [pthreads](http://en.wikipedia.org/wiki/POSIX_Threads) and [zlib](http://en.wikipedia.org/wiki/Zlib) being the only library dependency. 
 
+Lighter is also available from [Bioconda](https://anaconda.org/channels/bioconda/packages/lighter/overview). You can install Lighter with `conda install -c conda-forge -c bioconda lighter`.
 
 ### Usage
 
